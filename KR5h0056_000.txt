@@ -1,0 +1,30 @@
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-29 03:05:39.450522
+#+TITLE: 老子翼
+#+PROPERTY: DZID  DZ1486
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，36—530 六卷 續道藏
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS HFL
+#+PROPERTY: ID KR5h0056
+<pb:KR5h0056_HFL_000-001a>¶
+老子翼目録轂一¶
+　卷之一¶
+　　上篇¶
+　卷之二¶
+　　下篇¶
+卷之三¶
+　　附録¶
+　　考異¶
+　　　蘇子由註¶
+　　　焦氏筆乘¶
+<pb:KR5h0056_HFL_000-001b>¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
